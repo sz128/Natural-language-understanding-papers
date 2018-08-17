@@ -40,4 +40,4 @@ It will contain sequence labelling, sentence classification, dialogue act classi
   * [Sentence-State LSTM for Text Representation](http://aclweb.org/anthology/P18-1030). Yue Zhang, et al. ACL, 2018. [[Code](https://github.com/leuchine/S-LSTM)]
   * [Chinese NER Using Lattice LSTM](http://aclweb.org/anthology/P18-1144). Yue Zhang, et al. ACL, 2018. [[Code+data](https://github.com/jiesutd/LatticeLSTM)]
   * [SoPa: Bridging CNNs, RNNs, and Weighted Finite-State Machines](http://aclweb.org/anthology/P18-1028). Roy Schwartz, et al. ACL, 2018. [[Code](https://github.com/Noahs-ARK/soft_patterns)]
-  * [Coarse-to-Fine Decoding for Neural Semantic Parsing](http://homepages.inf.ed.ac.uk/s1478528/acl18-coarse2fine.pdf). Li Dong and Mirella Lapata. ACL, 2018. [[Code](https:// github.com/donglixp/coarse2fine)]
+  * [Coarse-to-Fine Decoding for Neural Semantic Parsing](http://homepages.inf.ed.ac.uk/s1478528/acl18-coarse2fine.pdf). Li Dong and Mirella Lapata. ACL, 2018. [[Code](https://github.com/donglixp/coarse2fine)]
