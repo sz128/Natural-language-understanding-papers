@@ -37,6 +37,5 @@ It will contain sequence labelling, sentence classification, dialogue act classi
 
  ## Which may inspire us
   * [Jointly Predicting Predicates and Arguments in Neural Semantic Role Labeling](http://aclweb.org/anthology/P18-2058). Luheng He, et al. ACL, 2018. [[Code](https://github.com/luheng/lsgn)]
-  * [Sentence-State LSTM for Text Representation](http://aclweb.org/anthology/P18-1030). Yue Zhang, et al. ACL, 2018. [[Code](https://github.com/ leuchine/S-LSTM)]
-  * [Chinese NER Using Lattice LSTM](http://aclweb.org/anthology/P18-1144). Yue Zhang, et al. ACL, 2018. [[Code+data](https://
-github.com/jiesutd/LatticeLSTM.)]
+  * [Sentence-State LSTM for Text Representation](http://aclweb.org/anthology/P18-1030). Yue Zhang, et al. ACL, 2018. [[Code](https://github.com/leuchine/S-LSTM)]
+  * [Chinese NER Using Lattice LSTM](http://aclweb.org/anthology/P18-1144). Yue Zhang, et al. ACL, 2018. [[Code+data](https://github.com/jiesutd/LatticeLSTM)]
