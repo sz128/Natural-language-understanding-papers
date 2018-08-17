@@ -6,6 +6,7 @@ It will contain sequence labelling, sentence classification, dialogue act classi
   * [Variant networks](#variant-networks)
   * [Robustness to ASR-error](#robustness-to-ASR-error)
   * [Zero-shot learning and domain adaptation](#zero-shot-learning-and-domain-adaptation)
+  * [Which may inspire us]($which-may-inspire-us)
 
 ## Variant networks
   * [Using Recurrent Neural Networks for Slot Filling in Spoken Language Understanding](https://ieeexplore.ieee.org/document/6998838/). Grégoire Mesnil, et al.. TASLP, 2015. [[Code+data](https://github.com/mesnilgr/is13)]
@@ -33,3 +34,9 @@ It will contain sequence labelling, sentence classification, dialogue act classi
   * [Concept Transfer Learning for Adaptive Language Understanding](http://aclweb.org/anthology/W18-5047). Su Zhu and Kai Yu. SIGDIAL, 2018.
   * [An End-to-end Approach for Handling Unknown Slot Values in Dialogue State Tracking](http://aclweb.org/anthology/P18-1134). Puyang Xu and Qi Hu. ACL, 2018.
   * [Large-Scale Multi-Domain Belief Tracking with Knowledge Sharing](http://aclweb.org/anthology/P18-2069). Osman Ramadan, et al.. ACL, 2018.
+
+ ## Which may inspire us
+  * [Jointly Predicting Predicates and Arguments in Neural Semantic Role Labeling](http://aclweb.org/anthology/P18-2058). Luheng He, et al. ACL, 2018. [[Code](https://github.com/luheng/lsgn)]
+  * [Sentence-State LSTM for Text Representation](http://aclweb.org/anthology/P18-1030). Yue Zhang, et al. ACL, 2018. [[Code](https://github.com/ leuchine/S-LSTM)]
+  * [Chinese NER Using Lattice LSTM](http://aclweb.org/anthology/P18-1144). Yue Zhang, et al. ACL, 2018. [[Code+data](https://
+github.com/jiesutd/LatticeLSTM.)]
