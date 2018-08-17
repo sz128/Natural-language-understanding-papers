@@ -14,8 +14,8 @@ It will contain sequence labelling, sentence classification, dialogue act classi
   * [Encoder-decoder with Focus-mechanism for Sequence Labelling Based Spoken Language Understanding](https://speechlab.sjtu.edu.cn/papers/sz128-zhu-icassp17.pdf). Su Zhu and Kai Yu. ICASSP, 2017. [[Code](https://github.com/sz128/SLU_focus_and_attention)]
   * [Neural Models for Sequence Chunking](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14776/14262). Fei Zhai, et al. AAAI, 2017.
   * [End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF](https://arxiv.org/abs/1603.01354). Xuezhe Ma, Eduard Hovy. ACL, 2016.
+  * [A Bi-model based RNN Semantic Frame Parsing Model for Intent Detection and Slot Filling](http://aclweb.org/anthology/N18-2050). Yu Wang, et al. NAACL 2018.
   * [Improving Slot Filling in Spoken Language Understanding with Joint Pointer and Attention](http://aclweb.org/anthology/P18-2068). Lin Zhao and Zhe Feng. ACL, 2018.
-  
   
 ## Robustness to ASR-error
  * [Discriminative spoken language understanding using word confusion networks](http://www.matthen.com/assets/pdf/Discriminative_Spoken_Language_Understanding_Using_Word_Confusion_Networks.pdf). Matthew Henderson, et al.. SLT, 2012. [[Data](https://www.repository.cam.ac.uk/handle/1810/248271;jsessionid=D40F449AE8CD5D93EF215715D1726E13)]
