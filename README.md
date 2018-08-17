@@ -1,6 +1,6 @@
 # Natural-language-understanding-papers
 A list of recent papers regarding natural language understanding and spoken language understanding. <br>
-It will contain sequence labelling, sentence classification, dialogue act classification, dialogue state tracking and so on.
+It contains sequence labelling, sentence classification, dialogue act classification, dialogue state tracking and so on.
 
 # Bookmarks
   * [Variant networks](#variant-networks)
