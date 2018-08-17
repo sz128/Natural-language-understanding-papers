@@ -23,3 +23,13 @@ It will contain sequence labelling, sentence classification, dialogue act classi
  * [Robust Spoken Language Understanding with unsupervised ASR-error adaptation](https://speechlab.sjtu.edu.cn/papers/sz128-zhu-icassp18.pdf). Su Zhu, et al.. ICASSP, 2018.
  * [Neural Confnet Classification: Fully Neural Network Based Spoken Utterance Classification Using Word Confusion Networks](http://mirlab.org/conference_papers/International_Conference/ICASSP%202018/pdfs/0006039.pdf). Ryo Masumura, et al.. ICASSP, 2018.
  
+ ## Zero-shot learning and domain adaptation
+  * [A model of zero-shot learning of spoken language understanding](http://www.anthology.aclweb.org/D/D15/D15-1027.pdf). Majid Yazdani and James Henderson. EMNLP, 2015.
+  * [Zero-shot Learning Of Intent Embeddings For Expansion By Convolutional Deep Structured Semantic Models](https://www.csie.ntu.edu.tw/~yvchen/doc/ICASSP16_ZeroShot.pdf). Yun-Nung Chen, et al.. ICASSP 2016.
+  * [Online Adaptative Zero-shot Learning Spoken Language Understanding Using Word-embedding](https://ieeexplore.ieee.org/document/7178987/).  Emmanuel Ferreira, et al. ICASSP 2015.
+  * [Towards Zero-Shot Frame Semantic Parsing for Domain Scaling](https://www.isca-speech.org/archive/Interspeech_2017/pdfs/0518.PDF).  Ankur Bapna, et al. Interspeech, 2017.
+  * [Domain Attention with an Ensemble of Experts](http://www.karlstratos.com/publications/acl17ensemble.pdf). Young-Bum Kim, et al.. ACL, 2017.
+  * [Adversarial Adaptation of Synthetic or Stale Data](http://karlstratos.com/publications/acl17adversarial.pdf). Young-Bum Kim, et al.. ACL, 2017.
+  * [Concept Transfer Learning for Adaptive Language Understanding](http://aclweb.org/anthology/W18-5047). Su Zhu and Kai Yu. SIGDIAL, 2018.
+  * [An End-to-end Approach for Handling Unknown Slot Values in Dialogue State Tracking](http://aclweb.org/anthology/P18-1134). Puyang Xu and Qi Hu. ACL, 2018.
+  * [Large-Scale Multi-Domain Belief Tracking with Knowledge Sharing](http://aclweb.org/anthology/P18-2069). Osman Ramadan, et al.. ACL, 2018.
