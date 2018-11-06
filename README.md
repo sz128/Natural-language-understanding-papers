@@ -16,6 +16,7 @@ It contains sequence labelling, sentence classification, dialogue act classifica
   * [End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF](https://arxiv.org/abs/1603.01354). Xuezhe Ma, Eduard Hovy. ACL, 2016.
   * [A Bi-model based RNN Semantic Frame Parsing Model for Intent Detection and Slot Filling](http://aclweb.org/anthology/N18-2050). Yu Wang, et al. NAACL 2018.
   * [Improving Slot Filling in Spoken Language Understanding with Joint Pointer and Attention](http://aclweb.org/anthology/P18-2068). Lin Zhao and Zhe Feng. ACL, 2018.
+  * [A Self-Attentive Model with Gate Mechanism for Spoken Language Understanding](http://aclweb.org/anthology/D18-1417). Changliang Li, et al. EMNLP 2018. [from Kingsoft AI Lab]
   
 ## Robustness to ASR-error
  * [Discriminative spoken language understanding using word confusion networks](http://www.matthen.com/assets/pdf/Discriminative_Spoken_Language_Understanding_Using_Word_Confusion_Networks.pdf). Matthew Henderson, et al.. SLT, 2012. [[Data](https://www.repository.cam.ac.uk/handle/1810/248271;jsessionid=D40F449AE8CD5D93EF215715D1726E13)]
@@ -36,6 +37,7 @@ It contains sequence labelling, sentence classification, dialogue act classifica
   * [Large-Scale Multi-Domain Belief Tracking with Knowledge Sharing](http://aclweb.org/anthology/P18-2069). Osman Ramadan, et al.. ACL, 2018. [[Data](http://dialogue.mi.eng.cam.ac.uk/index.php/corpus/)]
   * [Fast and Scalable Expansion of Natural Language Understanding Functionality for Intelligent Agents](http://aclweb.org/anthology/N18-3018). Anuj Goyal, et al. NAACL, 2018. [from Amazon Alexa Machine Learning]
   * [Bag of Experts Architectures for Model Reuse in Conversational Language Understanding](http://aclweb.org/anthology/N18-3019). Rahul Jha, et al. NAACL, 2018. [from Microsoft Corporation]
+  * [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf). Jacob Devlin, et al. Arxiv 2018. [from Google AI Language]
 
  ## Which may inspire us
   * [Jointly Predicting Predicates and Arguments in Neural Semantic Role Labeling](http://aclweb.org/anthology/P18-2058). Luheng He, et al. ACL, 2018. [[Code](https://github.com/luheng/lsgn)]
@@ -43,3 +45,4 @@ It contains sequence labelling, sentence classification, dialogue act classifica
   * [Chinese NER Using Lattice LSTM](http://aclweb.org/anthology/P18-1144). Yue Zhang, et al. ACL, 2018. [[Code+data](https://github.com/jiesutd/LatticeLSTM)]
   * [SoPa: Bridging CNNs, RNNs, and Weighted Finite-State Machines](http://aclweb.org/anthology/P18-1028). Roy Schwartz, et al. ACL, 2018. [[Code](https://github.com/Noahs-ARK/soft_patterns)]
   * [Coarse-to-Fine Decoding for Neural Semantic Parsing](http://homepages.inf.ed.ac.uk/s1478528/acl18-coarse2fine.pdf). Li Dong and Mirella Lapata. ACL, 2018. [[Code](https://github.com/donglixp/coarse2fine)]
+  * [Semantic Parsing for Task Oriented Dialog using Hierarchical Representations](http://aclweb.org/anthology/D18-1300). Sonal Gupta, et al. EMNLP 2018. [from Facebook AI Research]
