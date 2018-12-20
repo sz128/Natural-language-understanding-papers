@@ -46,3 +46,4 @@ It contains sequence labelling, sentence classification, dialogue act classifica
   * [SoPa: Bridging CNNs, RNNs, and Weighted Finite-State Machines](http://aclweb.org/anthology/P18-1028). Roy Schwartz, et al. ACL, 2018. [[Code](https://github.com/Noahs-ARK/soft_patterns)]
   * [Coarse-to-Fine Decoding for Neural Semantic Parsing](http://homepages.inf.ed.ac.uk/s1478528/acl18-coarse2fine.pdf). Li Dong and Mirella Lapata. ACL, 2018. [[Code](https://github.com/donglixp/coarse2fine)]
   * [Semantic Parsing for Task Oriented Dialog using Hierarchical Representations](http://aclweb.org/anthology/D18-1300). Sonal Gupta, et al. EMNLP 2018. [from Facebook AI Research]
+  * [Generalize Symbolic Knowledge With Neural Rule Engine](https://arxiv.org/pdf/1808.10326.pdf). Shen Li, Hengru Xu, Zhengdong Lu. Arxiv 2018. [from Deeplycurious.ai]
