@@ -3,6 +3,7 @@ A list of recent papers regarding natural language understanding and spoken lang
 It contains sequence labelling, sentence classification, dialogue act classification, dialogue state tracking and so on.
 
  * A review about NLU datasets for task-oriented dialogue is [here](https://github.com/sz128/NLU_datasets_for_task_oriented_dialogue).
+ * There is an [implementation](https://github.com/sz128/slot_filling_and_intent_detection_of_SLU) of joint training of slot filling and intent detection for SLU, which is evaluated on ATIS and SNIPS datasets.
 
 # Bookmarks
   * [Variant networks](#variant-networks)
