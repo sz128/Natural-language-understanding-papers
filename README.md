@@ -60,3 +60,4 @@ It contains sequence labelling, sentence classification, dialogue act classifica
   * [Semantic Parsing for Task Oriented Dialog using Hierarchical Representations](http://aclweb.org/anthology/D18-1300). Sonal Gupta, et al. EMNLP 2018. [from Facebook AI Research]
   * [Generalize Symbolic Knowledge With Neural Rule Engine](https://arxiv.org/pdf/1808.10326.pdf). Shen Li, Hengru Xu, Zhengdong Lu. Arxiv 2018. [from Deeplycurious.ai]
   * [Dual Supervised Learning for Natural Language Understanding and Generation](https://arxiv.org/abs/1905.06196). Shang-Yu Su, et al. ACL, 2019.
+  * [Neural Finite State Transducers: Beyond Rational Relations](https://www.aclweb.org/anthology/N19-1024). Chu-Cheng Lin, et al. NAACL, 2019.
