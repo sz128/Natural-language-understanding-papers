@@ -9,6 +9,7 @@ It contains sequence labelling, sentence classification, dialogue act classifica
   * [Variant networks](#variant-networks)
   * [Robustness to ASR-error](#robustness-to-ASR-error)
   * [Zero-shot learning and domain adaptation](#zero-shot-learning-and-domain-adaptation)
+  * [General Language Representation](#General Language Representation)
   * [Which may inspire us]($which-may-inspire-us)
 
 ## Variant networks
