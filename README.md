@@ -20,7 +20,9 @@ It contains sequence labelling, sentence classification, dialogue act classifica
   * [A Bi-model based RNN Semantic Frame Parsing Model for Intent Detection and Slot Filling](http://aclweb.org/anthology/N18-2050). Yu Wang, et al. NAACL 2018.
   * [Improving Slot Filling in Spoken Language Understanding with Joint Pointer and Attention](http://aclweb.org/anthology/P18-2068). Lin Zhao and Zhe Feng. ACL, 2018.
   * [A Self-Attentive Model with Gate Mechanism for Spoken Language Understanding](http://aclweb.org/anthology/D18-1417). Changliang Li, et al. EMNLP 2018. [from Kingsoft AI Lab]
-  * [Joint Slot Filling and Intent Detection via Capsule Neural Networks](https://arxiv.org/pdf/1812.09471.pdf). Chenwei Zhang. et al. 2018. [ongoing work]
+  * [Joint Slot Filling and Intent Detection via Capsule Neural Networks](https://arxiv.org/pdf/1812.09471.pdf). Chenwei Zhang, et al. 2018. 
+  * [BERT for Joint Intent Classification and Slot Filling](https://arxiv.org/pdf/1902.10909.pdf). Qian Chen, et al. 2019.[ongoing work]
+  * [A Hierarchical Decoding Model for Spoken Language Understanding from Unaligned Data](https://arxiv.org/abs/1904.04498). Zijian Zhao, et al. ICASSP 2019. [SJTU]
   
 ## Robustness to ASR-error
  * [Discriminative spoken language understanding using word confusion networks](http://www.matthen.com/assets/pdf/Discriminative_Spoken_Language_Understanding_Using_Word_Confusion_Networks.pdf). Matthew Henderson, et al.. SLT, 2012. [[Data](https://www.repository.cam.ac.uk/handle/1810/248271;jsessionid=D40F449AE8CD5D93EF215715D1726E13)]
@@ -28,6 +30,7 @@ It contains sequence labelling, sentence classification, dialogue act classifica
  * [Joint Online Spoken Language Understanding and Language Modeling with Recurrent Neural Networks](http://www.aclweb.org/anthology/W16-3603). Bing Liu and Ian Lane. SIGDIAL, 2016. [[Code](https://github.com/HadoopIt/joint-slu-lm)]
  * [Robust Spoken Language Understanding with unsupervised ASR-error adaptation](https://speechlab.sjtu.edu.cn/papers/sz128-zhu-icassp18.pdf). Su Zhu, et al.. ICASSP, 2018.
  * [Neural Confnet Classification: Fully Neural Network Based Spoken Utterance Classification Using Word Confusion Networks](http://mirlab.org/conference_papers/International_Conference/ICASSP%202018/pdfs/0006039.pdf). Ryo Masumura, et al.. ICASSP, 2018.
+ * [From Audio to Semantics: Approaches to end-to-end spoken language understanding](https://arxiv.org/abs/1809.09190). Parisa Haghani, et al. SLT, 2018. [Google]
  
  ## Zero-shot learning and domain adaptation
   * [A model of zero-shot learning of spoken language understanding](http://www.anthology.aclweb.org/D/D15/D15-1027.pdf). Majid Yazdani and James Henderson. EMNLP, 2015.
@@ -41,7 +44,12 @@ It contains sequence labelling, sentence classification, dialogue act classifica
   * [Large-Scale Multi-Domain Belief Tracking with Knowledge Sharing](http://aclweb.org/anthology/P18-2069). Osman Ramadan, et al.. ACL, 2018. [[Data](http://dialogue.mi.eng.cam.ac.uk/index.php/corpus/)]
   * [Fast and Scalable Expansion of Natural Language Understanding Functionality for Intelligent Agents](http://aclweb.org/anthology/N18-3018). Anuj Goyal, et al. NAACL, 2018. [from Amazon Alexa Machine Learning]
   * [Bag of Experts Architectures for Model Reuse in Conversational Language Understanding](http://aclweb.org/anthology/N18-3019). Rahul Jha, et al. NAACL, 2018. [from Microsoft Corporation]
-  * [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf). Jacob Devlin, et al. Arxiv 2018. [from Google AI Language]
+  * [Zero-Shot Adaptive Transfer for Conversational Language Understanding](https://arxiv.org/abs/1808.10059). Sungjin Lee, et al. Arxiv 2018. [Microsoft]
+ 
+## General Language Representation 
+  * [Deep contextualized word representations](https://arxiv.org/pdf/1802.05365.pdf). Matthew E. Peters, et al. NAACL 2018. [ELMo]
+  * [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf). Jacob Devlin, et al. NAACL 2019. [from Google AI Language]
+  * [XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/abs/1906.08237). Zhilin Yang, et al. Arxiv 2019. [CMU && Google Brain]
 
  ## Which may inspire us
   * [Jointly Predicting Predicates and Arguments in Neural Semantic Role Labeling](http://aclweb.org/anthology/P18-2058). Luheng He, et al. ACL, 2018. [[Code](https://github.com/luheng/lsgn)]
@@ -51,3 +59,4 @@ It contains sequence labelling, sentence classification, dialogue act classifica
   * [Coarse-to-Fine Decoding for Neural Semantic Parsing](http://homepages.inf.ed.ac.uk/s1478528/acl18-coarse2fine.pdf). Li Dong and Mirella Lapata. ACL, 2018. [[Code](https://github.com/donglixp/coarse2fine)]
   * [Semantic Parsing for Task Oriented Dialog using Hierarchical Representations](http://aclweb.org/anthology/D18-1300). Sonal Gupta, et al. EMNLP 2018. [from Facebook AI Research]
   * [Generalize Symbolic Knowledge With Neural Rule Engine](https://arxiv.org/pdf/1808.10326.pdf). Shen Li, Hengru Xu, Zhengdong Lu. Arxiv 2018. [from Deeplycurious.ai]
+  * [Dual Supervised Learning for Natural Language Understanding and Generation](https://arxiv.org/abs/1905.06196). Shang-Yu Su, et al. ACL, 2019.
