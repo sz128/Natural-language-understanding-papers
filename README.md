@@ -34,18 +34,24 @@ It contains sequence labelling, sentence classification, dialogue act classifica
  * [From Audio to Semantics: Approaches to end-to-end spoken language understanding](https://arxiv.org/abs/1809.09190). Parisa Haghani, et al. SLT, 2018. [Google]
  
  ## Zero-shot learning and domain adaptation
+ ### Zero-shot learning
   * [A model of zero-shot learning of spoken language understanding](http://www.anthology.aclweb.org/D/D15/D15-1027.pdf). Majid Yazdani and James Henderson. EMNLP, 2015.
   * [Zero-shot Learning Of Intent Embeddings For Expansion By Convolutional Deep Structured Semantic Models](https://www.csie.ntu.edu.tw/~yvchen/doc/ICASSP16_ZeroShot.pdf). Yun-Nung Chen, et al.. ICASSP 2016.
   * [Online Adaptative Zero-shot Learning Spoken Language Understanding Using Word-embedding](https://ieeexplore.ieee.org/document/7178987/).  Emmanuel Ferreira, et al. ICASSP 2015.
+  * [Label Embedding for Zero-shot Fine-grained Named Entity Typing](https://sentic.net/label-embedding-for-zero-shot-named-entity-typing.pdf). Yukun Ma et al. COLING, 2016.
   * [Towards Zero-Shot Frame Semantic Parsing for Domain Scaling](https://www.isca-speech.org/archive/Interspeech_2017/pdfs/0518.PDF).  Ankur Bapna, et al. Interspeech, 2017.
-  * [Domain Attention with an Ensemble of Experts](http://www.karlstratos.com/publications/acl17ensemble.pdf). Young-Bum Kim, et al.. ACL, 2017.
-  * [Adversarial Adaptation of Synthetic or Stale Data](http://karlstratos.com/publications/acl17adversarial.pdf). Young-Bum Kim, et al.. ACL, 2017.
   * [Concept Transfer Learning for Adaptive Language Understanding](http://aclweb.org/anthology/W18-5047). Su Zhu and Kai Yu. SIGDIAL, 2018.
   * [An End-to-end Approach for Handling Unknown Slot Values in Dialogue State Tracking](http://aclweb.org/anthology/P18-1134). Puyang Xu and Qi Hu. ACL, 2018.
   * [Large-Scale Multi-Domain Belief Tracking with Knowledge Sharing](http://aclweb.org/anthology/P18-2069). Osman Ramadan, et al.. ACL, 2018. [[Data](http://dialogue.mi.eng.cam.ac.uk/index.php/corpus/)]
+  * [Zero-Shot Adaptive Transfer for Conversational Language Understanding](https://arxiv.org/abs/1808.10059). Sungjin Lee, et al. Arxiv 2018. [Microsoft]
+ ### Few-shot learning
+  * [Few-shot classification in Named Entity Recognition Task](https://arxiv.org/pdf/1812.06158.pdf). Alexander Fritzler, et al. SAC, 2019.
+  * [Few-Shot Text Classification with Induction Network](https://arxiv.org/pdf/1902.10482.pdf). Ruiying Geng, et al. Arxiv 2019.
+ ### Domain adaptation
+  * [Domain Attention with an Ensemble of Experts](http://www.karlstratos.com/publications/acl17ensemble.pdf). Young-Bum Kim, et al.. ACL, 2017.
+  * [Adversarial Adaptation of Synthetic or Stale Data](http://karlstratos.com/publications/acl17adversarial.pdf). Young-Bum Kim, et al.. ACL, 2017.
   * [Fast and Scalable Expansion of Natural Language Understanding Functionality for Intelligent Agents](http://aclweb.org/anthology/N18-3018). Anuj Goyal, et al. NAACL, 2018. [from Amazon Alexa Machine Learning]
   * [Bag of Experts Architectures for Model Reuse in Conversational Language Understanding](http://aclweb.org/anthology/N18-3019). Rahul Jha, et al. NAACL, 2018. [from Microsoft Corporation]
-  * [Zero-Shot Adaptive Transfer for Conversational Language Understanding](https://arxiv.org/abs/1808.10059). Sungjin Lee, et al. Arxiv 2018. [Microsoft]
  
 ## General Language Representation 
   * [Deep contextualized word representations](https://arxiv.org/pdf/1802.05365.pdf). Matthew E. Peters, et al. NAACL 2018. [ELMo]
