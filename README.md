@@ -53,7 +53,7 @@ It contains sequence labelling, sentence classification, dialogue act classifica
   * [Fast and Scalable Expansion of Natural Language Understanding Functionality for Intelligent Agents](http://aclweb.org/anthology/N18-3018). Anuj Goyal, et al. NAACL, 2018. [from Amazon Alexa Machine Learning]
   * [Bag of Experts Architectures for Model Reuse in Conversational Language Understanding](http://aclweb.org/anthology/N18-3019). Rahul Jha, et al. NAACL, 2018. [from Microsoft Corporation]
  
-## General Language Representation 
+## Universal Language Representation 
   * [Deep contextualized word representations](https://arxiv.org/pdf/1802.05365.pdf). Matthew E. Peters, et al. NAACL 2018. [ELMo]
   * [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf). Jacob Devlin, et al. NAACL 2019. [from Google AI Language]
   * [XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/abs/1906.08237). Zhilin Yang, et al. Arxiv 2019. [CMU && Google Brain]
