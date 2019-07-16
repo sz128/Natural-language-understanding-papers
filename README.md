@@ -8,11 +8,11 @@ It contains sequence labelling, sentence classification, dialogue act classifica
  * There is an [implementation](https://github.com/sz128/slot_filling_and_intent_detection_of_SLU) of joint training of slot filling and intent detection for SLU, which is evaluated on ATIS and SNIPS datasets.
 
 # Bookmarks
-  * [Variant networks for different semantic representations](#variant-networks-for-different-semantic-representations)
-  * [Robustness to ASR-error](#robustness-to-ASR-error)
-  * [Zero-shot learning and domain adaptation](#zero-shot-learning-and-domain-adaptation)
-  * [Universal Language Representation](#Universal-Language-Representation)
-  * [Which may inspire us]($which-may-inspire-us)
+  * [Variant networks for different semantic representations](#1-variant-networks-for-different-semantic-representations)
+  * [Robustness to ASR-error](#2-robustness-to-ASR-error)
+  * [Zero-shot learning and domain adaptation](#3-zero-shot-learning-and-domain-adaptation)
+  * [Universal Language Representation](#4-Universal-Language-Representation)
+  * [Which may inspire us]($5-which-may-inspire-us)
 
 ## 1 Variant networks for different semantic representations
 ### 1.1 Domain-intent-slot
@@ -61,12 +61,12 @@ It contains sequence labelling, sentence classification, dialogue act classifica
   * [Fast and Scalable Expansion of Natural Language Understanding Functionality for Intelligent Agents](http://aclweb.org/anthology/N18-3018). Anuj Goyal, et al. NAACL, 2018. [from Amazon Alexa Machine Learning]
   * [Bag of Experts Architectures for Model Reuse in Conversational Language Understanding](http://aclweb.org/anthology/N18-3019). Rahul Jha, et al. NAACL, 2018. [from Microsoft Corporation]
  
-## 4. Universal Language Representation 
+## 4 Universal Language Representation 
   * [Deep contextualized word representations](https://arxiv.org/pdf/1802.05365.pdf). Matthew E. Peters, et al. NAACL 2018. [ELMo]
   * [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf). Jacob Devlin, et al. NAACL 2019. [from Google AI Language]
   * [XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/abs/1906.08237). Zhilin Yang, et al. Arxiv 2019. [CMU && Google Brain]
 
- ## 5. Which may inspire us
+ ## 5 Which may inspire us
   * [Jointly Predicting Predicates and Arguments in Neural Semantic Role Labeling](http://aclweb.org/anthology/P18-2058). Luheng He, et al. ACL, 2018. [[Code](https://github.com/luheng/lsgn)]
   * [Sentence-State LSTM for Text Representation](http://aclweb.org/anthology/P18-1030). Yue Zhang, et al. ACL, 2018. [[Code](https://github.com/leuchine/S-LSTM)]
   * [Chinese NER Using Lattice LSTM](http://aclweb.org/anthology/P18-1144). Yue Zhang, et al. ACL, 2018. [[Code+data](https://github.com/jiesutd/LatticeLSTM)]
