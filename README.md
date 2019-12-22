@@ -8,10 +8,13 @@ It contains sequence labelling, sentence classification, dialogue act classifica
  * There is an [implementation](https://github.com/sz128/slot_filling_and_intent_detection_of_SLU) of joint training of slot filling and intent detection for SLU, which is evaluated on ATIS and SNIPS datasets.
 
 # Bookmarks
-  * [NLU papers with domain-intent-slot](./domain-intent-slot.md)
+  * [NLU papers for domain-intent-slot](#1-NLU-papers-for-domain-intent-slot)
   * [Universal Language Representation](#2-Universal-Language-Representation)
   * [Which may inspire us]($3-which-may-inspire-us)
 
+## 1 NLU papers for domain-intent-slot
+  * Please see [the paper list](./domain-intent-slot.md)
+  
 ## 2 Universal Language Representation 
   * [Deep contextualized word representations](https://arxiv.org/pdf/1802.05365.pdf). Matthew E. Peters, et al. NAACL 2018. [ELMo]
   * [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf). Jacob Devlin, et al. NAACL 2019. [from Google AI Language]
