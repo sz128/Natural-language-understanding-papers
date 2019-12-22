@@ -2,25 +2,28 @@
 
 # Natural-language-understanding-papers
 A list of recent papers regarding natural language understanding and spoken language understanding. <br>
-It contains sequence labelling, sentence classification, dialogue act classification, dialogue state tracking and so on.
 
- * A review about NLU datasets for task-oriented dialogue is [here](https://github.com/sz128/NLU_datasets_for_task_oriented_dialogue).
- * There is an [implementation](https://github.com/sz128/slot_filling_and_intent_detection_of_SLU) of joint training of slot filling and intent detection for SLU, which is evaluated on ATIS and SNIPS datasets.
+It covers different semantic representations:
+  * domain-intent-slot;
+  * SQL query;
 
 # Bookmarks
   * [NLU papers for domain-intent-slot](#1-NLU-papers-for-domain-intent-slot)
-  * [Universal Language Representation](#2-Universal-Language-Representation)
-  * [Which may inspire us]($3-which-may-inspire-us)
+  * [Universal Language Representation](#3-Universal-Language-Representation)
+  * [Which may inspire us]($4-which-may-inspire-us)
 
 ## 1 NLU papers for domain-intent-slot
-  * Please see [the paper list](./domain-intent-slot.md)
-  
-## 2 Universal Language Representation 
+  * Please see [the paper list](./domain-intent-slot.md).
+
+## 2 NLU papers for text2SQL
+  * Please see [the paper list](https://paperswithcode.com/task/text-to-sql).
+
+## 3 Universal Language Representation 
   * [Deep contextualized word representations](https://arxiv.org/pdf/1802.05365.pdf). Matthew E. Peters, et al. NAACL 2018. [ELMo]
   * [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf). Jacob Devlin, et al. NAACL 2019. [from Google AI Language]
   * [XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/abs/1906.08237). Zhilin Yang, et al. Arxiv 2019. [CMU && Google Brain]
 
- ## 3 Which may inspire us
+ ## 4 Which may inspire us
   * [Jointly Predicting Predicates and Arguments in Neural Semantic Role Labeling](http://aclweb.org/anthology/P18-2058). Luheng He, et al. ACL, 2018. [[Code](https://github.com/luheng/lsgn)]
   * [Sentence-State LSTM for Text Representation](http://aclweb.org/anthology/P18-1030). Yue Zhang, et al. ACL, 2018. [[Code](https://github.com/leuchine/S-LSTM)]
   * [Chinese NER Using Lattice LSTM](http://aclweb.org/anthology/P18-1144). Yue Zhang, et al. ACL, 2018. [[Code+data](https://github.com/jiesutd/LatticeLSTM)]
