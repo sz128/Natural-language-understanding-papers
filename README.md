@@ -9,6 +9,7 @@ It covers different semantic representations:
 
 # Bookmarks
   * [NLU papers for domain-intent-slot](#1-NLU-papers-for-domain-intent-slot)
+  * [NLU papers for text2SQL](#2-NLU-papers-for-text2SQL)
   * [Universal Language Representation](#3-Universal-Language-Representation)
   * [Which may inspire us]($4-which-may-inspire-us)
 
