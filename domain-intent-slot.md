@@ -38,6 +38,8 @@ It contains sequence labelling, sentence classification, dialogue act classifica
  * [Neural Confnet Classification: Fully Neural Network Based Spoken Utterance Classification Using Word Confusion Networks](http://mirlab.org/conference_papers/International_Conference/ICASSP%202018/pdfs/0006039.pdf). Ryo Masumura, et al.. ICASSP, 2018.
  * [From Audio to Semantics: Approaches to end-to-end spoken language understanding](https://arxiv.org/abs/1809.09190). Parisa Haghani, et al.. SLT, 2018. [Google]
  * [Robust Spoken Language Understanding with Acoustic and Domain Knowledge](https://dl.acm.org/doi/10.1145/3340555.3356100). Hao Li, et al.. ICMI, 2019.
+ * [Adapting Pretrained Transformer to Lattices for Spoken Language Understanding](https://www.csie.ntu.edu.tw/~yvchen/doc/ASRU19_LatticeSLU.pdf). Chao-Wei Huang and Yun-Nung Chen. ASRU, 2019. [[Code](https://github.com/MiuLab/Lattice-SLU)]
+ * [Learning ASR-Robust Contextualized Embeddings for Spoken Language Understanding](https://www.csie.ntu.edu.tw/~yvchen/doc/ICASSP20_SpokenVec.pdf). Chao-Wei Huang and Yun-Nung Chen. ICASSP, 2020.
  
  ## 3 Zero-shot learning and domain adaptation
  ### 3.1 Zero-shot learning
