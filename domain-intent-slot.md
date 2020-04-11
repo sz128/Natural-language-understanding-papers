@@ -64,6 +64,6 @@ It contains sequence labelling, sentence classification, dialogue act classifica
   * [Adversarial Adaptation of Synthetic or Stale Data](http://karlstratos.com/publications/acl17adversarial.pdf). Young-Bum Kim, et al.. ACL, 2017.
   * [Fast and Scalable Expansion of Natural Language Understanding Functionality for Intelligent Agents](http://aclweb.org/anthology/N18-3018). Anuj Goyal, et al. NAACL, 2018. [from Amazon Alexa Machine Learning]
   * [Bag of Experts Architectures for Model Reuse in Conversational Language Understanding](http://aclweb.org/anthology/N18-3019). Rahul Jha, et al.. NAACL, 2018. [from Microsoft Corporation]
-  * [Prior Knowledge Driven Label Embedding for Slot Filling in Natural Language Understanding](https://arxiv.org/abs/2003.09831). Su Zhu, et al.. TASLP, 2020. [SJTU]
   * [Data Augmentation with Atomic Templates for Spoken Language Understanding](https://www.aclweb.org/anthology/D19-1375.pdf). Zijian Zhao, et al. EMNLP-IJCNLP, 2019. [SJTU]
+  * [Prior Knowledge Driven Label Embedding for Slot Filling in Natural Language Understanding](https://arxiv.org/abs/2003.09831). Su Zhu, et al.. TASLP, 2020. [SJTU]
  
