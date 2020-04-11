@@ -21,7 +21,9 @@ It contains sequence labelling, sentence classification, dialogue act classifica
   * [A Bi-model based RNN Semantic Frame Parsing Model for Intent Detection and Slot Filling](http://aclweb.org/anthology/N18-2050). Yu Wang, et al. NAACL 2018.
   * [A Self-Attentive Model with Gate Mechanism for Spoken Language Understanding](http://aclweb.org/anthology/D18-1417). Changliang Li, et al. EMNLP 2018. [from Kingsoft AI Lab]
   * [Joint Slot Filling and Intent Detection via Capsule Neural Networks](https://arxiv.org/pdf/1812.09471.pdf). Chenwei Zhang, et al. 2018. 
-  * [BERT for Joint Intent Classification and Slot Filling](https://arxiv.org/pdf/1902.10909.pdf). Qian Chen, et al. 2019.[ongoing work]
+  * [BERT for Joint Intent Classification and Slot Filling](https://arxiv.org/pdf/1902.10909.pdf). Qian Chen, et al.. Arxiv 2019.
+  * [A Novel Bi-directional Interrelated Model for Joint Intent Detection and Slot Filling](https://www.aclweb.org/anthology/P19-1544.pdf). Haihong E, et al. ACL, 2019.
+  * [A Stack-Propagation Framework with Token-Level Intent Detection for Spoken Language Understanding](https://www.aclweb.org/anthology/D19-1214.pdf). Libo Qin, et al. EMNLP-IJCNLP, 2019.
 
 ### 1.2 Dialogue act (act-slot-value triples)
   * [Improving Slot Filling in Spoken Language Understanding with Joint Pointer and Attention](http://aclweb.org/anthology/P18-2068). Lin Zhao and Zhe Feng. ACL, 2018.
