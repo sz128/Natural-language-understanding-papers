@@ -59,5 +59,6 @@ It contains sequence labelling, sentence classification, dialogue act classifica
   * [Domain Attention with an Ensemble of Experts](http://www.karlstratos.com/publications/acl17ensemble.pdf). Young-Bum Kim, et al.. ACL, 2017.
   * [Adversarial Adaptation of Synthetic or Stale Data](http://karlstratos.com/publications/acl17adversarial.pdf). Young-Bum Kim, et al.. ACL, 2017.
   * [Fast and Scalable Expansion of Natural Language Understanding Functionality for Intelligent Agents](http://aclweb.org/anthology/N18-3018). Anuj Goyal, et al. NAACL, 2018. [from Amazon Alexa Machine Learning]
-  * [Bag of Experts Architectures for Model Reuse in Conversational Language Understanding](http://aclweb.org/anthology/N18-3019). Rahul Jha, et al. NAACL, 2018. [from Microsoft Corporation]
+  * [Bag of Experts Architectures for Model Reuse in Conversational Language Understanding](http://aclweb.org/anthology/N18-3019). Rahul Jha, et al.. NAACL, 2018. [from Microsoft Corporation]
+  * [Prior Knowledge Driven Label Embedding for Slot Filling in Natural Language Understanding](https://arxiv.org/abs/2003.09831). Su Zhu, et al.. TASLP, 2020.
  
