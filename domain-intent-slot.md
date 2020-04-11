@@ -39,7 +39,7 @@ It contains sequence labelling, sentence classification, dialogue act classifica
  * [Robust Spoken Language Understanding with unsupervised ASR-error adaptation](https://speechlab.sjtu.edu.cn/papers/sz128-zhu-icassp18.pdf). Su Zhu, et al.. ICASSP, 2018.
  * [Neural Confnet Classification: Fully Neural Network Based Spoken Utterance Classification Using Word Confusion Networks](http://mirlab.org/conference_papers/International_Conference/ICASSP%202018/pdfs/0006039.pdf). Ryo Masumura, et al.. ICASSP, 2018.
  * [From Audio to Semantics: Approaches to end-to-end spoken language understanding](https://arxiv.org/abs/1809.09190). Parisa Haghani, et al.. SLT, 2018. [Google]
- * [Robust Spoken Language Understanding with Acoustic and Domain Knowledge](https://dl.acm.org/doi/10.1145/3340555.3356100). Hao Li, et al.. ICMI, 2019.
+ * [Robust Spoken Language Understanding with Acoustic and Domain Knowledge](https://dl.acm.org/doi/10.1145/3340555.3356100). Hao Li, et al.. ICMI, 2019. [SJTU]
  * [Adapting Pretrained Transformer to Lattices for Spoken Language Understanding](https://www.csie.ntu.edu.tw/~yvchen/doc/ASRU19_LatticeSLU.pdf). Chao-Wei Huang and Yun-Nung Chen. ASRU, 2019. [[Code](https://github.com/MiuLab/Lattice-SLU)]
  * [Learning ASR-Robust Contextualized Embeddings for Spoken Language Understanding](https://www.csie.ntu.edu.tw/~yvchen/doc/ICASSP20_SpokenVec.pdf). Chao-Wei Huang and Yun-Nung Chen. ICASSP, 2020.
  
@@ -64,5 +64,6 @@ It contains sequence labelling, sentence classification, dialogue act classifica
   * [Adversarial Adaptation of Synthetic or Stale Data](http://karlstratos.com/publications/acl17adversarial.pdf). Young-Bum Kim, et al.. ACL, 2017.
   * [Fast and Scalable Expansion of Natural Language Understanding Functionality for Intelligent Agents](http://aclweb.org/anthology/N18-3018). Anuj Goyal, et al. NAACL, 2018. [from Amazon Alexa Machine Learning]
   * [Bag of Experts Architectures for Model Reuse in Conversational Language Understanding](http://aclweb.org/anthology/N18-3019). Rahul Jha, et al.. NAACL, 2018. [from Microsoft Corporation]
-  * [Prior Knowledge Driven Label Embedding for Slot Filling in Natural Language Understanding](https://arxiv.org/abs/2003.09831). Su Zhu, et al.. TASLP, 2020.
+  * [Prior Knowledge Driven Label Embedding for Slot Filling in Natural Language Understanding](https://arxiv.org/abs/2003.09831). Su Zhu, et al.. TASLP, 2020. [SJTU]
+  * [Data Augmentation with Atomic Templates for Spoken Language Understanding](https://www.aclweb.org/anthology/D19-1375.pdf). Zijian Zhao, et al. EMNLP-IJCNLP, 2019. [SJTU]
  
