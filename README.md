@@ -11,7 +11,7 @@ It covers different semantic representations:
   * [NLU papers for domain-intent-slot](#1-NLU-papers-for-domain-intent-slot)
   * [NLU papers for text2SQL](#2-NLU-papers-for-text2SQL)
   * [Universal Language Representation](#3-Universal-Language-Representation)
-  * [Which may inspire us]($4-which-may-inspire-us)
+  * [Which may inspire us]($4-Which-may-inspire-us)
 
 ## 1 NLU papers for domain-intent-slot
   * Please see [the paper list](./domain-intent-slot.md).
@@ -33,3 +33,4 @@ It covers different semantic representations:
   * [Generalize Symbolic Knowledge With Neural Rule Engine](https://arxiv.org/pdf/1808.10326.pdf). Shen Li, Hengru Xu, Zhengdong Lu. Arxiv 2018. [from Deeplycurious.ai]
   * [Dual Supervised Learning for Natural Language Understanding and Generation](https://arxiv.org/abs/1905.06196). Shang-Yu Su, et al. ACL, 2019.
   * [Neural Finite State Transducers: Beyond Rational Relations](https://www.aclweb.org/anthology/N19-1024). Chu-Cheng Lin, et al. NAACL, 2019.
+  * Paper lists of [Meta learning for NLP](https://github.com/ha-lins/MetaLearning4NLP-Papers).
