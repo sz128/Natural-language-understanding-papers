@@ -66,4 +66,6 @@ It contains sequence labelling, sentence classification, dialogue act classifica
   * [Bag of Experts Architectures for Model Reuse in Conversational Language Understanding](http://aclweb.org/anthology/N18-3019). Rahul Jha, et al.. NAACL, 2018. [from Microsoft Corporation]
   * [Data Augmentation with Atomic Templates for Spoken Language Understanding](https://www.aclweb.org/anthology/D19-1375.pdf). Zijian Zhao, et al. EMNLP-IJCNLP, 2019. [SJTU]
   * [Prior Knowledge Driven Label Embedding for Slot Filling in Natural Language Understanding](https://arxiv.org/abs/2003.09831). Su Zhu, et al.. TASLP, 2020. [SJTU]
- 
+  ### 3.3 Meta-learning
+  * **Investigating Meta-Learning Algorithms for Low-Resource NLU tasks.** *Zi-Yi Dou, Keyi Yu, Antonios Anastasopoulos.* ***EMNLP 2019[short]***. [[pdf](https://www.aclweb.org/anthology/D19-1112.pdf)]
+  * **Enhanced Meta-Learning for Cross-lingual Named Entity Recognition with Minimal Resources.** *Qianhui Wu, Zijia Lin, Guoxin Wang, Hui Chen, Börje F. Karlsson, Biqing Huang, Chin-Yew Lin.* ***AAAI 2020***. [[pdf](https://arxiv.org/pdf/1911.06161.pdf)]
